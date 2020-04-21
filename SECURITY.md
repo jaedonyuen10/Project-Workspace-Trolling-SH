@@ -7,7 +7,7 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 0.3.1   |Yes                 |
+| 0.3.1>  |Yes                 |
 | 0.3.0   |Yes                 |
 | 0.1.x   |Yes                 |
 | 0.0.1   |No                  |
