@@ -1,0 +1,48 @@
+newmtl WorkspaceTrollerSh1Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.0234425 0.0231273 0.02408 
+
+d 1
+
+Ns 0
+
+newmtl WorkspaceTrollerSh2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka WorkspaceTrollerSh2Tex.png
+map_Kd WorkspaceTrollerSh2Tex.png
+map_d WorkspaceTrollerSh2Tex.png
+
+newmtl H1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.403922 0.403922 0.403922 
+
+d 1
+
+Ns 0
+
+map_Ka WorkspaceTrollerSh2Tex.png
+map_Kd WorkspaceTrollerSh2Tex.png
+map_d WorkspaceTrollerSh2Tex.png
+
+newmtl S1Mtl
+Material Color
+Ka 0.215764 0.215764 0.215764
+Kd 0.215764 0.215764 0.215764
+Ks 0.0871519 0.0871519 0.0871519 
+
+d 1
+
+Ns 0
+
